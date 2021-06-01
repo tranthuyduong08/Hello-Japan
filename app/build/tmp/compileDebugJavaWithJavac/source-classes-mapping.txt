@@ -1,0 +1,4 @@
+com/a1_1801040055/hellojapan/BuildConfig.java
+ com.a1_1801040055.hellojapan.BuildConfig
+com/a1_1801040055/hellojapan/MainActivity.java
+ com.a1_1801040055.hellojapan.MainActivity
